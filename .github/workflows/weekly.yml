@@ -28,7 +28,14 @@ jobs:
 
       - name: Run collector
         run: python collector.py
-
+      
+      - name: Check collector output
+        run: |
+          echo "Repository files:"
+          find . -maxdepth 3 -type f | sort
+          echo "Data directory:"
+          ls -la data || true
+    
       - name: Archive snapshot
         run: python archive.py
 
