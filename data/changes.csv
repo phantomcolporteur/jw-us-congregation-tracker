@@ -1,0 +1,13 @@
+from_date,to_date,change_type,old_name,new_name,old_state,new_state,confidence
+2026-09-22,2026-09-27,POSSIBLE_RENAME,"Los Charcos, Chih.","Los Charcos(8714), Chih.",,,medium
+2026-09-22,2026-09-27,POSSIBLE_MOVE,"Los Frailes, Dgo.","Los Frailes, Dgo.",,,medium
+2026-09-22,2026-09-27,POSSIBLE_MOVE,Quincy - IL (USA),Quincy - IL (USA),IL,IL,medium
+2026-09-22,2026-09-27,POSSIBLE_RENAME,"Las Fuentes-Ciudad Benito Juárez, N.L.","Las Fuentes(97139)-Ciudad Benito Juárez, N.L.",,,medium
+2026-09-22,2026-09-27,POSSIBLE_MOVE,Indianola - IA (USA),Indianola - IA (USA),IA,IA,medium
+2026-09-22,2026-09-27,POSSIBLE_MOVE,Lenexa - KS (USA),Lenexa - KS (USA),KS,KS,medium
+2026-09-22,2026-09-27,POSSIBLE_MOVE,Valley View - Ventura CA (USA),Valley View - Ventura CA (USA),CA,CA,medium
+2026-09-22,2026-09-27,POSSIBLE_MOVE,Altoona - FL (USA),Altoona - FL (USA),FL,FL,medium
+2026-09-22,2026-09-27,POSSIBLE_MOVE,Shawnee - KS (USA),Shawnee - KS (USA),KS,KS,medium
+2026-09-22,2026-09-27,POSSIBLE_MOVE,Kirksville - MO (USA),Kirksville - MO (USA),MO,MO,medium
+2026-09-22,2026-09-27,POSSIBLE_MOVE,Chester - SC (USA),Chester - SC (USA),SC,SC,medium
+2026-09-22,2026-09-27,POSSIBLE_MOVE,Burlington - WI (USA),Burlington - WI (USA),WI,WI,medium
