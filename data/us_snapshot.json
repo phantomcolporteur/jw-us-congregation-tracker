@@ -2,20 +2,7 @@
   "captured_at": "2026-10-03T05:02:12.716271+00:00",
   "source": "https://hub.jw.org/meetings/api/meeting-search",
   "collector_version": "3.1-geography",
-  "record_count": 14167,
-  "us_record_count": 14165,
-  "unique_congregation_count": 14167,
-  "unique_location_count": 6470,
-  "country_counts": {
-    "US": 14165,
-    "Uncertain": 2
-  },
-  "geography_confidence_counts": {
-    "medium": 14165,
-    "low": 2
-  },
-  "request_count": 1115,
-  "error_count": 0,
+  "record_count": 14165,
   "records": [
     {
       "source_id": "29c55ddb-3bc3-4008-80da-e47161f6b7e5",
@@ -10722,85 +10709,6 @@
         "phoneNumber": "242- 813-4762",
         "isPrivateHome": false,
         "groupMeetings": [],
-        "$type": "JW.App.Meetings.Server.Models.CongregationMeeting"
-      }
-    },
-    {
-      "source_id": "fdb839f1-1d11-4edc-ba86-ba763cf9d848",
-      "location_id": "c139439c-b8e0-5c7b-9c99-654d6ead09ab",
-      "name": "Somerset - Bermuda (BMU)",
-      "language": "English",
-      "language_code": "bafaf6d8-1e69-47c2-abcb-b3bdfc28eebe",
-      "latitude": 32.259042,
-      "longitude": -64.824735,
-      "city": null,
-      "state": null,
-      "geo_country": "Uncertain",
-      "geo_confidence": "low",
-      "geo_reason": "no_high_confidence_geographic_signal",
-      "is_us": false,
-      "address": "194 Middle Rd Southampton Bermuda SN03 SN BERMUDA",
-      "phone_number": "441-238-2073",
-      "is_private_home": false,
-      "midweek_meeting_day": 3,
-      "midweek_meeting_time": "19:15:00",
-      "weekend_meeting_day": 0,
-      "weekend_meeting_time": "13:00:00",
-      "source_record": {
-        "id": "fdb839f1-1d11-4edc-ba86-ba763cf9d848",
-        "languageGuid": "bafaf6d8-1e69-47c2-abcb-b3bdfc28eebe",
-        "name": "Somerset - Bermuda (BMU)",
-        "midweekMeetingDay": 3,
-        "midweekMeetingTime": "19:15:00",
-        "weekendMeetingDay": 0,
-        "weekendMeetingTime": "13:00:00",
-        "address": "194 Middle Rd\r\nSouthampton Bermuda SN03  SN\r\nBERMUDA\r\n",
-        "phoneNumber": "441-238-2073",
-        "isPrivateHome": false,
-        "groupMeetings": [],
-        "$type": "JW.App.Meetings.Server.Models.CongregationMeeting"
-      }
-    },
-    {
-      "source_id": "06dd137f-d8d1-4601-9381-df7e545e36e1",
-      "location_id": "c139439c-b8e0-5c7b-9c99-654d6ead09ab",
-      "name": "Heron Bay - Bermuda (BMU)",
-      "language": "English",
-      "language_code": "bafaf6d8-1e69-47c2-abcb-b3bdfc28eebe",
-      "latitude": 32.259042,
-      "longitude": -64.824735,
-      "city": null,
-      "state": null,
-      "geo_country": "Uncertain",
-      "geo_confidence": "low",
-      "geo_reason": "no_high_confidence_geographic_signal",
-      "is_us": false,
-      "address": "194 Middle Rd Southampton Bermuda SN03 SN BERMUDA",
-      "phone_number": "2382073",
-      "is_private_home": false,
-      "midweek_meeting_day": 4,
-      "midweek_meeting_time": "19:15:00",
-      "weekend_meeting_day": 0,
-      "weekend_meeting_time": "10:00:00",
-      "source_record": {
-        "id": "06dd137f-d8d1-4601-9381-df7e545e36e1",
-        "languageGuid": "bafaf6d8-1e69-47c2-abcb-b3bdfc28eebe",
-        "name": "Heron Bay - Bermuda (BMU)",
-        "midweekMeetingDay": 4,
-        "midweekMeetingTime": "19:15:00",
-        "weekendMeetingDay": 0,
-        "weekendMeetingTime": "10:00:00",
-        "address": "194 Middle Rd\r\nSouthampton Bermuda SN03  SN\r\nBERMUDA\r\n",
-        "phoneNumber": "2382073",
-        "isPrivateHome": false,
-        "groupMeetings": [
-          {
-            "id": "4a3b5c91-279d-4bd3-97b2-659c4d02af44",
-            "languageGuid": "2cadddaf-80d5-472d-b6d9-48cd4dd17a5b",
-            "isPrivateHome": false,
-            "$type": "JW.App.Meetings.Server.Models.CongregationGroupMeeting"
-          }
-        ],
         "$type": "JW.App.Meetings.Server.Models.CongregationMeeting"
       }
     },
@@ -512929,6 +512837,5 @@
         "$type": "JW.App.Meetings.Server.Models.CongregationMeeting"
       }
     }
-  ],
-  "errors": []
+  ]
 }

@@ -11,3 +11,53 @@ from_date,to_date,change_type,old_name,new_name,old_state,new_state,confidence
 2026-09-22,2026-09-27,POSSIBLE_MOVE,Kirksville - MO (USA),Kirksville - MO (USA),MO,MO,medium
 2026-09-22,2026-09-27,POSSIBLE_MOVE,Chester - SC (USA),Chester - SC (USA),SC,SC,medium
 2026-09-22,2026-09-27,POSSIBLE_MOVE,Burlington - WI (USA),Burlington - WI (USA),WI,WI,medium
+2026-09-28,2026-10-03,NEW,,Bruckner Spanish - New York NY (USA),,NY,high
+2026-09-28,2026-10-03,NEW,,West Russian - Raleigh NC (USA),,NC,high
+2026-09-28,2026-10-03,NEW,,Eden Roc Spanish - Hilo HI (USA),,HI,high
+2026-09-28,2026-10-03,NEW,,Seaboard Portuguese - Myrtle Beach SC (USA),,SC,high
+2026-09-28,2026-10-03,NEW,,Havemeyer - New York NY (USA),,NY,high
+2026-09-28,2026-10-03,NEW,,"Blainville Nord-Créole, Blainville, QC",,,high
+2026-09-28,2026-10-03,NEW,,"Valmont Créole, Repentigny, QC",,,high
+2026-09-28,2026-10-03,NEW,,Castle Hill - New York NY (USA),,NY,high
+2026-09-28,2026-10-03,NO_LONGER_OBSERVED,Springvale - ME (USA),,ME,,medium
+2026-09-28,2026-10-03,NO_LONGER_OBSERVED,"Sud-Ouest Roumain, Montréal, QC",,,,medium
+2026-09-28,2026-10-03,NO_LONGER_OBSERVED,Shelburne Falls - MA (USA),,MA,,medium
+2026-09-28,2026-10-03,NO_LONGER_OBSERVED,Maple Spanish - Montebello CA (USA),,CA,,medium
+2026-09-28,2026-10-03,NO_LONGER_OBSERVED,Bridgeport - MI (USA),,MI,,medium
+2026-09-28,2026-10-03,NO_LONGER_OBSERVED,Plover - WI (USA),,WI,,medium
+2026-09-28,2026-10-03,NO_LONGER_OBSERVED,Polish - Chicago IL (USA),,IL,,medium
+2026-09-28,2026-10-03,NO_LONGER_OBSERVED,Atlantic Spanish - New York NY (USA),,NY,,medium
+2026-09-28,2026-10-03,NO_LONGER_OBSERVED,Romanian - Portland OR (USA),,OR,,medium
+2026-09-28,2026-10-03,NO_LONGER_OBSERVED,"Fuentes del Valle(60277)-Reynosa, Tamps.",,,,medium
+2026-09-28,2026-10-03,NO_LONGER_OBSERVED,"Los Charcos(8714), Chih.",,,,medium
+2026-09-28,2026-10-03,NO_LONGER_OBSERVED,West Spanish - El Mirage AZ (USA),,AZ,,medium
+2026-09-28,2026-10-03,NO_LONGER_OBSERVED,French - Kansas City MO (USA),,MO,,medium
+2026-09-28,2026-10-03,NO_LONGER_OBSERVED,Central Sign Language - Holts Summit MO (USA),,MO,,medium
+2026-09-28,2026-10-03,NO_LONGER_OBSERVED,East Haitian Creole - Miami FL (USA),,FL,,medium
+2026-09-28,2026-10-03,NO_LONGER_OBSERVED,Richmond Hill Spanish - New York NY (USA),,NY,,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,Ahoskie - NC (USA),Ahoskie - NC (USA),NC,NC,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,East - Pine Bluff AR (USA),East - Pine Bluff AR (USA),AR,AR,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,"Waterfill-Juárez, Chih.","Waterfill-Juárez, Chih.",,,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,"El Tecuán, Dgo.","El Tecuán, Dgo.",,,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,Haverhill English - West Palm Beach FL (USA),Haverhill English - West Palm Beach FL (USA),FL,FL,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,Liberty - New York NY (USA),Liberty - New York NY (USA),NY,NY,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,"Nueva Esperanza-Tepehuanes, Dgo.","Nueva Esperanza-Tepehuanes, Dgo.",,,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,Roscommon - MI (USA),Roscommon - MI (USA),MI,MI,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,South Spanish - Greeley CO (USA),South Spanish - Greeley CO (USA),CO,CO,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,West - Pine Bluff AR (USA),West - Pine Bluff AR (USA),AR,AR,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,East Spanish - Greeley CO (USA),East Spanish - Greeley CO (USA),CO,CO,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,English - Ruidoso NM (USA),English - Ruidoso NM (USA),NM,NM,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,North Spanish - La Habra CA (USA),North Spanish - La Habra CA (USA),CA,CA,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,Bozeman - MT (USA),Bozeman - MT (USA),MT,MT,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,Central Mandarin Chinese - Wilmington DE (USA),Central Mandarin Chinese - Wilmington DE (USA),DE,DE,medium
+2026-09-28,2026-10-03,POSSIBLE_RENAME_OR_MOVE,Cannongate - Sharpsburg GA (USA),Ashley Park - Newnan GA (USA),GA,GA,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,Central - La Habra CA (USA),Central - La Habra CA (USA),CA,CA,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,Harrisonville - MO (USA),Harrisonville - MO (USA),MO,MO,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,South Spanish - La Habra CA (USA),South Spanish - La Habra CA (USA),CA,CA,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,Lonoke - AR (USA),Lonoke - AR (USA),AR,AR,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,Spanish - Alamogordo NM (USA),Spanish - Alamogordo NM (USA),NM,NM,medium
+2026-09-28,2026-10-03,POSSIBLE_RENAME_OR_MOVE,Grantville - GA (USA),West - Newnan GA (USA),GA,GA,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,Bridger Peaks Spanish - Bozeman MT (USA),Bridger Peaks Spanish - Bozeman MT (USA),MT,MT,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,South English - Greeley CO (USA),South English - Greeley CO (USA),CO,CO,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,West Spanish - Miami Gardens FL (USA),West Spanish - Miami Gardens FL (USA),FL,FL,medium
+2026-09-28,2026-10-03,POSSIBLE_MOVE,"Satélite-Juárez, Chih.","Satélite-Juárez, Chih.",,,medium
