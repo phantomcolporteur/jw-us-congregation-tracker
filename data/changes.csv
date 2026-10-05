@@ -61,3 +61,4 @@ from_date,to_date,change_type,old_name,new_name,old_state,new_state,confidence
 2026-09-28,2026-10-03,POSSIBLE_MOVE,South English - Greeley CO (USA),South English - Greeley CO (USA),CO,CO,medium
 2026-09-28,2026-10-03,POSSIBLE_MOVE,West Spanish - Miami Gardens FL (USA),West Spanish - Miami Gardens FL (USA),FL,FL,medium
 2026-09-28,2026-10-03,POSSIBLE_MOVE,"Satélite-Juárez, Chih.","Satélite-Juárez, Chih.",,,medium
+2026-10-05,2026-10-05,POSSIBLE_MOVE,Romeo - Dunnellon FL (USA),Romeo - Dunnellon FL (USA),FL,FL,medium
