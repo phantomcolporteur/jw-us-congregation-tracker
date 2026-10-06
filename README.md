@@ -1,31 +1,45 @@
-# JW Hub Collector v3 — RESTORE
+# JW U.S. Congregation Tracker v3.3
 
-This is the last known-working collector version used in the project before the v4/v4.1 experiments.
+v3.3 adds the historical/event layer on top of the working JW Hub collector.
 
-## What this restores
+## What you do
 
-- Current JW Hub API: `https://hub.jw.org/meetings/api/meeting-search`
-- Geographic grid collection across CONUS, Alaska, and Hawaii
-- Recursive subdivision of dense areas
-- Congregation ID kept separate from physical meeting-location ID
-- Deduplication by congregation ID
-- Conservative ~6.5 second request delay
-- Existing snapshot/error safety checks
+1. Keep your existing collector/workflow.
+2. Add `run_tracker.py` to the repository root.
+3. Keep the collector writing `data/snapshot.json`.
+4. Run the collector first, then run `python run_tracker.py`.
+5. Open `dashboard/index.html` through GitHub Pages (or a local web server).
 
-## Important
+The first run establishes a dated baseline and intentionally reports no historical changes. The next run compares the new U.S. snapshot with the previous one.
 
-This is intentionally a **restore**, not the improved U.S.-only collector.
+## Events detected
 
-The September 22 baseline produced 14,175 records with 0 request errors, but later analysis showed that the broad geographic collection can include records outside the U.S. and may still require better coverage/deduplication analysis. Do not treat the raw record count as an authoritative U.S. congregation count.
+- new congregation
+- no longer observed
+- name change
+- language change
+- likely relocation (up to about 50 miles, with stronger confidence inside 30 miles)
+- location changes
+- new non-English/non-Spanish language congregation
+- new non-English/non-Spanish language at an existing physical location
+- major local-area change using an approximately 30-mile radius
 
-For now, restore this `collector.py` only. Do not replace the rest of the repository.
+The wording is deliberately conservative: disappearance is reported as **no longer observed**, not closed; reorganization is not asserted as fact.
 
-## Restore steps
+## Important geography behavior
 
-1. Download the ZIP.
-2. Extract `collector.py`.
-3. Replace the repository's current `collector.py` with it.
-4. Commit and push.
-5. Run the GitHub Action manually.
+The collector's raw `data/snapshot.json` is preserved. v3.3 creates its own U.S. snapshot in `data/snapshots/` and uses explicit evidence such as `(USA)`, recognized Canadian postal/province patterns, Mexican abbreviations, Bahamas markers, and previously verified U.S. congregation IDs. It does not treat broad coordinates alone as proof of U.S. status.
 
-Do not disable the collector's safety checks and do not change the request delay for the first restore run.
+If a new record lacks enough country evidence, it is left Uncertain rather than guessed into the U.S.
+
+## Files created
+
+- `data/snapshots/YYYY-MM-DD.json` — archived U.S. snapshot
+- `data/current_us.json` — current U.S. data
+- `data/summary.json` — dashboard summary
+- `data/events/latest.json` — latest detected changes
+- `dashboard/index.html` — simple dashboard
+
+## Next stage
+
+Once several weekly snapshots exist, v3.4 can add longer-term trend scoring, change clusters, richer maps, and automated alert summaries.
