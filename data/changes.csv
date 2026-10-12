@@ -66,3 +66,16 @@ from_date,to_date,change_type,old_name,new_name,old_state,new_state,confidence
 2026-10-05,2026-10-06,POSSIBLE_MOVE,Manhattan - MT (USA),Manhattan - MT (USA),MT,MT,medium
 2026-10-05,2026-10-06,POSSIBLE_MOVE,"Zaragoza-Mexicali, B.C.","Zaragoza-Mexicali, B.C.",,,medium
 2026-10-05,2026-10-06,POSSIBLE_MOVE,Belgrade - MT (USA),Belgrade - MT (USA),MT,MT,medium
+2026-10-06,2026-10-12,NEW,,Midwood Spanish - New York NY (USA),,NY,high
+2026-10-06,2026-10-12,NO_LONGER_OBSERVED,Midtown Spanish - New York NY (USA),,NY,,medium
+2026-10-06,2026-10-12,NO_LONGER_OBSERVED,Lower Manhattan English - New York NY (USA),,NY,,medium
+2026-10-06,2026-10-12,POSSIBLE_MOVE,Indian Wells - Alamogordo NM (USA),Indian Wells - Alamogordo NM (USA),NM,NM,medium
+2026-10-06,2026-10-12,POSSIBLE_MOVE,Flatbush Haitian Creole - New York NY (USA),Flatbush Haitian Creole - New York NY (USA),NY,NY,medium
+2026-10-06,2026-10-12,POSSIBLE_RENAME,Gambrills - Glen Burnie MD (USA),Odenton - Glen Burnie MD (USA),MD,MD,medium
+2026-10-06,2026-10-12,POSSIBLE_MOVE,"Las Nieves, Dgo.","Las Nieves, Dgo.",,,medium
+2026-10-06,2026-10-12,POSSIBLE_MOVE,Chipley - FL (USA),Chipley - FL (USA),FL,FL,medium
+2026-10-06,2026-10-12,POSSIBLE_MOVE,Dorchester - New York NY (USA),Dorchester - New York NY (USA),NY,NY,medium
+2026-10-06,2026-10-12,POSSIBLE_MOVE,Albemarle Haitian Creole - New York NY (USA),Albemarle Haitian Creole - New York NY (USA),NY,NY,medium
+2026-10-06,2026-10-12,POSSIBLE_MOVE,Desert Hills - Alamogordo NM (USA),Desert Hills - Alamogordo NM (USA),NM,NM,medium
+2026-10-06,2026-10-12,POSSIBLE_RENAME,English - Hoquiam WA (USA),Bayside - Hoquiam WA (USA),WA,WA,medium
+2026-10-06,2026-10-12,POSSIBLE_RENAME,East - Glen Burnie MD (USA),Stoney Creek - Glen Burnie MD (USA),MD,MD,medium
