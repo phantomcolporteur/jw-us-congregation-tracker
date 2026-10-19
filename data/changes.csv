@@ -79,3 +79,40 @@ from_date,to_date,change_type,old_name,new_name,old_state,new_state,confidence
 2026-10-06,2026-10-12,POSSIBLE_MOVE,Desert Hills - Alamogordo NM (USA),Desert Hills - Alamogordo NM (USA),NM,NM,medium
 2026-10-06,2026-10-12,POSSIBLE_RENAME,English - Hoquiam WA (USA),Bayside - Hoquiam WA (USA),WA,WA,medium
 2026-10-06,2026-10-12,POSSIBLE_RENAME,East - Glen Burnie MD (USA),Stoney Creek - Glen Burnie MD (USA),MD,MD,medium
+2026-10-12,2026-10-19,NO_LONGER_OBSERVED,Central - Westminster CA (USA),,CA,,medium
+2026-10-12,2026-10-19,NO_LONGER_OBSERVED,Bolsa Vietnamese - Westminster CA (USA),,CA,,medium
+2026-10-12,2026-10-19,NO_LONGER_OBSERVED,Newland Spanish - Westminster CA (USA),,CA,,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,Washington Park - Boston MA (USA),Washington Park - Boston MA (USA),MA,MA,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,English - Liberty TX (USA),English - Liberty TX (USA),TX,TX,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,Spanish - Ruidoso NM (USA),Spanish - Ruidoso NM (USA),NM,NM,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,East - Syracuse NY (USA),East - Syracuse NY (USA),NY,NY,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,"Maple Grove, Ottawa, ON","Maple Grove, Ottawa, ON",,,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,Orchard Hills - Hagerstown MD (USA),Orchard Hills - Hagerstown MD (USA),PA,MD,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,South End - Boston MA (USA),South End - Boston MA (USA),MA,MA,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,"Kanata Lakes, Ottawa, ON","Kanata Lakes, Ottawa, ON",,,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,Washington Spanish - Hagerstown MD (USA),Washington Spanish - Hagerstown MD (USA),PA,MD,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,Sunset - East Wenatchee WA (USA),Sunset - East Wenatchee WA (USA),WA,WA,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,Spanish - Hernando FL (USA),Spanish - Hernando FL (USA),FL,FL,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,South - Syracuse NY (USA),South - Syracuse NY (USA),NY,NY,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,Pleasant Valley - Hagerstown MD (USA),Pleasant Valley - Hagerstown MD (USA),PA,MD,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,"Oakridge Spanish, Vancouver, BC","Oakridge Spanish, Vancouver, BC",,,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,West - Cincinnati OH (USA),West - Cincinnati OH (USA),OH,KY,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,English - Yorba Linda CA (USA),English - Yorba Linda CA (USA),CA,CA,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,"Pino-Ensenada, B.C.","Pino-Ensenada, B.C.",II,II,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,Lakeview - Syracuse NY (USA),Lakeview - Syracuse NY (USA),NY,NY,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,Onondaga Hill - Syracuse NY (USA),Onondaga Hill - Syracuse NY (USA),NY,NY,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,West - Syracuse NY (USA),West - Syracuse NY (USA),NY,NY,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,Central Swahili - Syracuse NY (USA),Central Swahili - Syracuse NY (USA),NY,NY,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,Lonoke - AR (USA),Lonoke - AR (USA),AR,AR,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,Ridgeview - East Wenatchee WA (USA),Ridgeview - East Wenatchee WA (USA),WA,WA,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,English - Brea CA (USA),English - Brea CA (USA),CA,CA,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,"Los Álamos-Emiliano Zapata, Dgo.","Los Álamos-Emiliano Zapata, Dgo.",,,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,South - Inverness FL (USA),South - Inverness FL (USA),FL,FL,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,"Punjabi, Vancouver, BC","Punjabi, Vancouver, BC",,,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,Spanish - East Wenatchee WA (USA),Spanish - East Wenatchee WA (USA),WA,WA,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,"Stittsville, Ottawa, ON","Stittsville, Ottawa, ON",,,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,"Riverview, Vancouver, BC","Riverview, Vancouver, BC",,,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,Mocks Crest - Portland OR (USA),Mocks Crest - Portland OR (USA),OR,OR,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,Spanish - Yorba Linda CA (USA),Spanish - Yorba Linda CA (USA),CA,CA,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,Spanish - Syracuse NY (USA),Spanish - Syracuse NY (USA),NY,NY,medium
+2026-10-12,2026-10-19,POSSIBLE_MOVE,Spanish - Liberty TX (USA),Spanish - Liberty TX (USA),TX,TX,medium
