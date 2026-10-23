@@ -116,3 +116,24 @@ from_date,to_date,change_type,old_name,new_name,old_state,new_state,confidence
 2026-10-12,2026-10-19,POSSIBLE_MOVE,Spanish - Yorba Linda CA (USA),Spanish - Yorba Linda CA (USA),CA,CA,medium
 2026-10-12,2026-10-19,POSSIBLE_MOVE,Spanish - Syracuse NY (USA),Spanish - Syracuse NY (USA),NY,NY,medium
 2026-10-12,2026-10-19,POSSIBLE_MOVE,Spanish - Liberty TX (USA),Spanish - Liberty TX (USA),TX,TX,medium
+2026-10-19,2026-10-23,NO_LONGER_OBSERVED,Hiawassee - GA (USA),,GA,,medium
+2026-10-19,2026-10-23,POSSIBLE_MOVE,"Satélite-Juárez, Chih.","Satélite-Juárez, Chih.",,,medium
+2026-10-19,2026-10-23,POSSIBLE_MOVE,Logan Square Spanish - Chicago IL (USA),Logan Square Spanish - Chicago IL (USA),IL,IL,medium
+2026-10-19,2026-10-23,POSSIBLE_MOVE,North - Columbia SC (USA),North - Columbia SC (USA),SC,SC,medium
+2026-10-19,2026-10-23,POSSIBLE_MOVE,"Tierra Nueva-Juárez, Chih.","Tierra Nueva-Juárez, Chih.",,,medium
+2026-10-19,2026-10-23,POSSIBLE_MOVE,North - Inverness FL (USA),North - Inverness FL (USA),FL,FL,medium
+2026-10-19,2026-10-23,POSSIBLE_MOVE,"Héroes de México-Juárez, Chih.","Héroes de México-Juárez, Chih.",,,medium
+2026-10-19,2026-10-23,POSSIBLE_MOVE,Sunset - Columbia SC (USA),Sunset - Columbia SC (USA),SC,SC,medium
+2026-10-19,2026-10-23,POSSIBLE_MOVE,"Oakridge Spanish, Vancouver, BC","Oakridge Spanish, Vancouver, BC",,,medium
+2026-10-19,2026-10-23,POSSIBLE_MOVE,Tinley Park - IL (USA),Tinley Park - IL (USA),IL,IL,medium
+2026-10-19,2026-10-23,POSSIBLE_MOVE,West - Largo FL (USA),West - Largo FL (USA),FL,FL,medium
+2026-10-19,2026-10-23,POSSIBLE_MOVE,Spanish - Largo FL (USA),Spanish - Largo FL (USA),FL,FL,medium
+2026-10-19,2026-10-23,POSSIBLE_MOVE,Lonoke - AR (USA),Lonoke - AR (USA),AR,AR,medium
+2026-10-19,2026-10-23,POSSIBLE_MOVE,"Jardines del Valle-Juárez, Chih.","Jardines del Valle-Juárez, Chih.",,,medium
+2026-10-19,2026-10-23,POSSIBLE_MOVE,Sign Language - Columbia SC (USA),Sign Language - Columbia SC (USA),SC,SC,medium
+2026-10-19,2026-10-23,POSSIBLE_MOVE,"Punjabi, Vancouver, BC","Punjabi, Vancouver, BC",,,medium
+2026-10-19,2026-10-23,POSSIBLE_MOVE,"Riverview, Vancouver, BC","Riverview, Vancouver, BC",,,medium
+2026-10-19,2026-10-23,POSSIBLE_MOVE,Northwest Spanish - Chicago IL (USA),Northwest Spanish - Chicago IL (USA),IL,IL,medium
+2026-10-19,2026-10-23,POSSIBLE_MOVE,Mexico - MO (USA),Mexico - MO (USA),MO,MO,medium
+2026-10-19,2026-10-23,POSSIBLE_MOVE,"Magisterio-Tamazula, Dgo.","Magisterio-Tamazula, Dgo.",,,medium
+2026-10-19,2026-10-23,POSSIBLE_MOVE,Frankfort - IL (USA),Frankfort - IL (USA),IL,IL,medium
