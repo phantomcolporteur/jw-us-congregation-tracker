@@ -137,3 +137,6 @@ from_date,to_date,change_type,old_name,new_name,old_state,new_state,confidence
 2026-10-19,2026-10-23,POSSIBLE_MOVE,Mexico - MO (USA),Mexico - MO (USA),MO,MO,medium
 2026-10-19,2026-10-23,POSSIBLE_MOVE,"Magisterio-Tamazula, Dgo.","Magisterio-Tamazula, Dgo.",,,medium
 2026-10-19,2026-10-23,POSSIBLE_MOVE,Frankfort - IL (USA),Frankfort - IL (USA),IL,IL,medium
+2026-10-23,2026-10-26,POSSIBLE_MOVE,West Hudson French - Airmont NY (USA),West Hudson French - Airmont NY (USA),NY,NY,medium
+2026-10-23,2026-10-26,POSSIBLE_MOVE,English - Wendell ID (USA),English - Wendell ID (USA),ID,ID,medium
+2026-10-23,2026-10-26,POSSIBLE_MOVE,Spanish - Wendell ID (USA),Spanish - Wendell ID (USA),ID,ID,medium

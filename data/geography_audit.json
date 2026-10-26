@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-23T13:11:46.910580+00:00",
+  "captured_at": "2026-10-26T10:09:37.471165+00:00",
   "total_records": 14162,
   "us_records": 14160,
   "country_counts": {
@@ -11,5 +11,5 @@
     "low": 2
   },
   "unique_congregations": 14162,
-  "unique_locations": 6462
+  "unique_locations": 6463
 }
