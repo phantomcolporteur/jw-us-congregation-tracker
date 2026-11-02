@@ -140,3 +140,56 @@ from_date,to_date,change_type,old_name,new_name,old_state,new_state,confidence
 2026-10-23,2026-10-26,POSSIBLE_MOVE,West Hudson French - Airmont NY (USA),West Hudson French - Airmont NY (USA),NY,NY,medium
 2026-10-23,2026-10-26,POSSIBLE_MOVE,English - Wendell ID (USA),English - Wendell ID (USA),ID,ID,medium
 2026-10-23,2026-10-26,POSSIBLE_MOVE,Spanish - Wendell ID (USA),Spanish - Wendell ID (USA),ID,ID,medium
+2026-10-26,2026-11-02,NEW,,View Park - Los Angeles CA (USA),,CA,high
+2026-10-26,2026-11-02,NEW,,Clearwater - Sharpsburg GA (USA),,GA,high
+2026-10-26,2026-11-02,NEW,,Hiawassee - GA (USA),,GA,high
+2026-10-26,2026-11-02,NEW,,North - Inglewood CA (USA),,CA,high
+2026-10-26,2026-11-02,NEW,,East - Inglewood CA (USA),,CA,high
+2026-10-26,2026-11-02,NEW,,Westridge Spanish - Craig CO (USA),,CO,high
+2026-10-26,2026-11-02,NO_LONGER_OBSERVED,Delaware River Portuguese - Phillipsburg NJ (USA),,NJ,,medium
+2026-10-26,2026-11-02,NO_LONGER_OBSERVED,Holmes Pennsylvania German - New Philadelphia OH (USA),,OH,,medium
+2026-10-26,2026-11-02,NO_LONGER_OBSERVED,Clarendon - TX (USA),,TX,,medium
+2026-10-26,2026-11-02,NO_LONGER_OBSERVED,Pembroke - NH (USA),,NH,,medium
+2026-10-26,2026-11-02,NO_LONGER_OBSERVED,"Las Fuentes(97139)-Ciudad Benito Juárez, N.L.",,,,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,South Spanish - Bridgewater NJ (USA),South Spanish - Bridgewater NJ (USA),NJ,NJ,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,West Spanish - Wilmington CA (USA),West Spanish - Wilmington CA (USA),CA,CA,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,Haitian Creole - Nyack NY (USA),Haitian Creole - Nyack NY (USA),NY,NY,medium
+2026-10-26,2026-11-02,POSSIBLE_RENAME,"El Tule, Chih.","El Tule(8268), Chih.",,,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,Japanese - Seattle WA (USA),Japanese - Seattle WA (USA),WA,WA,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,North - Placerville CA (USA),North - Placerville CA (USA),CA,CA,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,"Riverside Park Portuguese, Cambridge, ON","Riverside Park Portuguese, Cambridge, ON",,,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,Ozark - MO (USA),Ozark - MO (USA),MO,MO,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,"Heart Lake, Brampton, ON","Heart Lake, Brampton, ON",,,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,"Valleywood, Brampton, ON","Valleywood, Brampton, ON",,,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,"Silver Creek Spanish, Brampton, ON","Silver Creek Spanish, Brampton, ON",,,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,Wilmington Sign Language - Los Angeles CA (USA),Wilmington Sign Language - Los Angeles CA (USA),CA,CA,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,East Spanish - Manassas VA (USA),East Spanish - Manassas VA (USA),VA,VA,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,Mehlville - MO (USA),Mehlville - MO (USA),MO,MO,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,Sudley - Manassas VA (USA),Sudley - Manassas VA (USA),VA,VA,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,English - Bridgewater NJ (USA),English - Bridgewater NJ (USA),NJ,NJ,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,Childress - TX (USA),Childress - TX (USA),TX,TX,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,Serbo-Croatian - Saint Louis MO (USA),Serbo-Croatian - Saint Louis MO (USA),MO,MO,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,Harbor - Los Angeles CA (USA),Harbor - Los Angeles CA (USA),CA,CA,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,Lemay - MO (USA),Lemay - MO (USA),MO,MO,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,"Mount Pleasant Twi, Brampton, ON","Mount Pleasant Twi, Brampton, ON",,,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,Indianola - IA (USA),Indianola - IA (USA),IA,IA,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,"Galt, Cambridge, ON","Galt, Cambridge, ON",,,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,North Spanish - Bridgewater NJ (USA),North Spanish - Bridgewater NJ (USA),NJ,NJ,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,South - Placerville CA (USA),South - Placerville CA (USA),CA,CA,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,El Puerto Spanish - Wilmington CA (USA),El Puerto Spanish - Wilmington CA (USA),CA,CA,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,"Earlsbridge, Brampton, ON","Earlsbridge, Brampton, ON",,,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,Lomita Spanish - Wilmington CA (USA),Lomita Spanish - Wilmington CA (USA),CA,CA,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,Independent Hill - Manassas VA (USA),Independent Hill - Manassas VA (USA),VA,VA,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,Crowley - LA (USA),Crowley - LA (USA),LA,LA,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,Wellington Twi - Manassas VA (USA),Wellington Twi - Manassas VA (USA),VA,VA,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,Ames - IA (USA),Ames - IA (USA),IA,IA,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,Averill Park - San Pedro CA (USA),Averill Park - San Pedro CA (USA),CA,CA,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,Lonoke - AR (USA),Lonoke - AR (USA),AR,AR,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,English - Nyack NY (USA),English - Nyack NY (USA),NY,NY,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,Kirksville - MO (USA),Kirksville - MO (USA),MO,MO,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,"Mount Pleasant, Brampton, ON","Mount Pleasant, Brampton, ON",,,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,Wellington - Manassas VA (USA),Wellington - Manassas VA (USA),VA,VA,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,"Ejido Navidad, N.L.","Ejido Navidad, N.L.",,,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,Korean - Torrance CA (USA),Korean - Torrance CA (USA),CA,CA,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,Spanish - Placerville CA (USA),Spanish - Placerville CA (USA),CA,CA,medium
+2026-10-26,2026-11-02,POSSIBLE_MOVE,West Spanish - Manassas VA (USA),West Spanish - Manassas VA (USA),VA,VA,medium

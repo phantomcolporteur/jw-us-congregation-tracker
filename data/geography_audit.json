@@ -1,15 +1,15 @@
 {
-  "captured_at": "2026-10-26T10:09:37.471165+00:00",
-  "total_records": 14162,
-  "us_records": 14160,
+  "captured_at": "2026-11-02T19:16:26.045013+00:00",
+  "total_records": 14163,
+  "us_records": 14161,
   "country_counts": {
-    "US": 14160,
+    "US": 14161,
     "Uncertain": 2
   },
   "confidence_counts": {
-    "medium": 14160,
+    "medium": 14161,
     "low": 2
   },
-  "unique_congregations": 14162,
-  "unique_locations": 6463
+  "unique_congregations": 14163,
+  "unique_locations": 6467
 }
