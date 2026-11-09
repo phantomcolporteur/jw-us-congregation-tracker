@@ -193,3 +193,35 @@ from_date,to_date,change_type,old_name,new_name,old_state,new_state,confidence
 2026-10-26,2026-11-02,POSSIBLE_MOVE,Korean - Torrance CA (USA),Korean - Torrance CA (USA),CA,CA,medium
 2026-10-26,2026-11-02,POSSIBLE_MOVE,Spanish - Placerville CA (USA),Spanish - Placerville CA (USA),CA,CA,medium
 2026-10-26,2026-11-02,POSSIBLE_MOVE,West Spanish - Manassas VA (USA),West Spanish - Manassas VA (USA),VA,VA,medium
+2026-11-02,2026-11-09,NO_LONGER_OBSERVED,Central English - Norwalk CA (USA),,CA,,medium
+2026-11-02,2026-11-09,NO_LONGER_OBSERVED,Pioneer Tagalog - Artesia CA (USA),,CA,,medium
+2026-11-02,2026-11-09,NO_LONGER_OBSERVED,Pioneer Spanish - Norwalk CA (USA),,CA,,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,Baudette - MN (USA),Baudette - MN (USA),MN,MN,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,Mission Bay - San Diego CA (USA),Mission Bay - San Diego CA (USA),CA,CA,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,Spanish - Roanoke VA (USA),Spanish - Roanoke VA (USA),VA,VA,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,Waterfall - Albuquerque NM (USA),Waterfall - Albuquerque NM (USA),NM,NM,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,Spanish - Augusta GA (USA),Spanish - Augusta GA (USA),GA,GA,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,Central Haitian Creole - Roanoke VA (USA),Central Haitian Creole - Roanoke VA (USA),VA,VA,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,Central - Augusta GA (USA),Central - Augusta GA (USA),GA,GA,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,Shawnee - KS (USA),Shawnee - KS (USA),KS,KS,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,Japanese - Seattle WA (USA),Japanese - Seattle WA (USA),WA,WA,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,Central - La Habra CA (USA),Central - La Habra CA (USA),CA,CA,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,"Amistad, Laval, QC","Amistad, Laval, QC",,,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,South Spanish - La Habra CA (USA),South Spanish - La Habra CA (USA),CA,CA,medium
+2026-11-02,2026-11-09,POSSIBLE_RENAME,"Porvenir, Chih.","Arroyo El Navajo-Porvenir, Chih.",,,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,Ashokan - Shokan NY (USA),Ashokan - Shokan NY (USA),NY,NY,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,"San José de Reyes, Dgo.","San José de Reyes, Dgo.",,,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,Valley View - Roanoke VA (USA),Valley View - Roanoke VA (USA),VA,VA,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,"La Rumorosa, B.C.","La Rumorosa, B.C.",,,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,"Centro-Ceballos, Dgo.","Centro-Ceballos, Dgo.",,,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,Lockport - LA (USA),Lockport - LA (USA),LA,LA,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,Spanish - Shokan NY (USA),Spanish - Shokan NY (USA),NY,NY,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,Forrest Hills - Augusta GA (USA),Forrest Hills - Augusta GA (USA),GA,GA,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,North Spanish - La Habra CA (USA),North Spanish - La Habra CA (USA),CA,CA,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,Bagley - MN (USA),Bagley - MN (USA),MN,MN,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,Childress - TX (USA),Childress - TX (USA),TX,TX,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,Hawkinsville - GA (USA),Hawkinsville - GA (USA),GA,GA,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,La Jolla - CA (USA),La Jolla - CA (USA),CA,CA,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,Lenexa - KS (USA),Lenexa - KS (USA),KS,KS,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,"Central-Canatlán, Dgo.","Central-Canatlán, Dgo.",,,medium
+2026-11-02,2026-11-09,POSSIBLE_MOVE,"Barrancas del Cobre tarahumara occidental-San Rafael, Chih.","Barrancas del Cobre tarahumara occidental-San Rafael, Chih.",,,medium
