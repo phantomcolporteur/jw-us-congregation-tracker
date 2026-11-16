@@ -225,3 +225,26 @@ from_date,to_date,change_type,old_name,new_name,old_state,new_state,confidence
 2026-11-02,2026-11-09,POSSIBLE_MOVE,Lenexa - KS (USA),Lenexa - KS (USA),KS,KS,medium
 2026-11-02,2026-11-09,POSSIBLE_MOVE,"Central-Canatlán, Dgo.","Central-Canatlán, Dgo.",,,medium
 2026-11-02,2026-11-09,POSSIBLE_MOVE,"Barrancas del Cobre tarahumara occidental-San Rafael, Chih.","Barrancas del Cobre tarahumara occidental-San Rafael, Chih.",,,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,Japanese - Seattle WA (USA),Japanese - Seattle WA (USA),WA,WA,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,"Perras, Montréal, QC","Perras, Montréal, QC",,,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,West - Mount Vernon NY (USA),West - Mount Vernon NY (USA),NY,NY,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,Brentwood - Nashville TN (USA),Brentwood - Nashville TN (USA),TN,TN,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,"Pointe de l'Île, Montréal, QC","Pointe de l'Île, Montréal, QC",,,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,Antioch Spanish - Nashville TN (USA),Antioch Spanish - Nashville TN (USA),TN,TN,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,Westchester Portuguese - Mount Vernon NY (USA),Westchester Portuguese - Mount Vernon NY (USA),NY,NY,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,Connellsville - PA (USA),Connellsville - PA (USA),PA,PA,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,"Anjou, Montréal, QC","Anjou, Montréal, QC",,,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,Lockport - LA (USA),Lockport - LA (USA),LA,LA,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,Cheboygan - MI (USA),Cheboygan - MI (USA),MI,MI,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,South - Mount Vernon NY (USA),South - Mount Vernon NY (USA),NY,NY,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,Cane Ridge Spanish - Nashville TN (USA),Cane Ridge Spanish - Nashville TN (USA),TN,TN,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,Gramatan Jamaican Creole - Mount Vernon NY (USA),Gramatan Jamaican Creole - Mount Vernon NY (USA),NY,NY,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,"Créole-Est, Montréal, QC","Créole-Est, Montréal, QC",,,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,South - Nashville TN (USA),South - Nashville TN (USA),TN,TN,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,Parkside Haitian Creole - Mount Vernon NY (USA),Parkside Haitian Creole - Mount Vernon NY (USA),NY,NY,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,Jacksonville - AL (USA),Jacksonville - AL (USA),AL,AL,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,"Las Praderas, Montréal, QC","Las Praderas, Montréal, QC",,,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,Spanish - Mount Vernon NY (USA),Spanish - Mount Vernon NY (USA),NY,NY,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,"Las Brisas-Lerdo, Dgo.","Las Brisas-Lerdo, Dgo.",,,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,"Jardín-Lerdo, Dgo.","Jardín-Lerdo, Dgo.",,,medium
+2026-11-09,2026-11-16,POSSIBLE_MOVE,Harrisonville - MO (USA),Harrisonville - MO (USA),MO,MO,medium
