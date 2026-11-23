@@ -248,3 +248,26 @@ from_date,to_date,change_type,old_name,new_name,old_state,new_state,confidence
 2026-11-09,2026-11-16,POSSIBLE_MOVE,"Las Brisas-Lerdo, Dgo.","Las Brisas-Lerdo, Dgo.",,,medium
 2026-11-09,2026-11-16,POSSIBLE_MOVE,"Jardín-Lerdo, Dgo.","Jardín-Lerdo, Dgo.",,,medium
 2026-11-09,2026-11-16,POSSIBLE_MOVE,Harrisonville - MO (USA),Harrisonville - MO (USA),MO,MO,medium
+2026-11-16,2026-11-23,POSSIBLE_MOVE,Spanish - Mount Vernon NY (USA),Spanish - Mount Vernon NY (USA),NY,NY,medium
+2026-11-16,2026-11-23,POSSIBLE_MOVE,Northwest Spanish - Fresno CA (USA),Northwest Spanish - Fresno CA (USA),CA,CA,medium
+2026-11-16,2026-11-23,POSSIBLE_MOVE,South - Mount Vernon NY (USA),South - Mount Vernon NY (USA),NY,NY,medium
+2026-11-16,2026-11-23,POSSIBLE_MOVE,South - New Port Richey FL (USA),South - New Port Richey FL (USA),FL,FL,medium
+2026-11-16,2026-11-23,POSSIBLE_RENAME,"San Agustín, Chih.","Los Arenales-San Agustín, Chih.",,,medium
+2026-11-16,2026-11-23,POSSIBLE_MOVE,Lansdale - PA (USA),Lansdale - PA (USA),PA,PA,medium
+2026-11-16,2026-11-23,POSSIBLE_MOVE,Westchester Portuguese - Mount Vernon NY (USA),Westchester Portuguese - Mount Vernon NY (USA),NY,NY,medium
+2026-11-16,2026-11-23,POSSIBLE_MOVE,Benscreek - Johnstown PA (USA),Benscreek - Johnstown PA (USA),PA,PA,medium
+2026-11-16,2026-11-23,POSSIBLE_MOVE,Elfers - FL (USA),Elfers - FL (USA),FL,FL,medium
+2026-11-16,2026-11-23,POSSIBLE_MOVE,Hiawassee - GA (USA),Hiawassee - GA (USA),GA,GA,medium
+2026-11-16,2026-11-23,POSSIBLE_MOVE,Figarden - Fresno CA (USA),Figarden - Fresno CA (USA),CA,CA,medium
+2026-11-16,2026-11-23,POSSIBLE_MOVE,Parkside Haitian Creole - Mount Vernon NY (USA),Parkside Haitian Creole - Mount Vernon NY (USA),NY,NY,medium
+2026-11-16,2026-11-23,POSSIBLE_MOVE,Sierra Spanish - Fresno CA (USA),Sierra Spanish - Fresno CA (USA),CA,CA,medium
+2026-11-16,2026-11-23,POSSIBLE_RENAME,"Puerto La Paz-Juárez, Chih.","Puerto La Paz(110783)-Juárez, Chih.",,,medium
+2026-11-16,2026-11-23,POSSIBLE_MOVE,Gramatan Jamaican Creole - Mount Vernon NY (USA),Gramatan Jamaican Creole - Mount Vernon NY (USA),NY,NY,medium
+2026-11-16,2026-11-23,POSSIBLE_MOVE,Souderton - PA (USA),Souderton - PA (USA),PA,PA,medium
+2026-11-16,2026-11-23,POSSIBLE_MOVE,West - Mount Vernon NY (USA),West - Mount Vernon NY (USA),NY,NY,medium
+2026-11-16,2026-11-23,POSSIBLE_MOVE,Garrity Spanish - Nampa ID (USA),Garrity Spanish - Nampa ID (USA),ID,ID,medium
+2026-11-16,2026-11-23,POSSIBLE_MOVE,East - Nampa ID (USA),East - Nampa ID (USA),ID,ID,medium
+2026-11-16,2026-11-23,POSSIBLE_MOVE,North - New Port Richey FL (USA),North - New Port Richey FL (USA),FL,FL,medium
+2026-11-16,2026-11-23,POSSIBLE_MOVE,English - Joliet IL (USA),English - Joliet IL (USA),IL,IL,medium
+2026-11-16,2026-11-23,POSSIBLE_MOVE,Southside Spanish - Nampa ID (USA),Southside Spanish - Nampa ID (USA),ID,ID,medium
+2026-11-16,2026-11-23,POSSIBLE_RENAME,"Barreales, Chih.","Puente Tornillo Guadalupe-Barreales, Chih.",,,medium
